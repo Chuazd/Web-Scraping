@@ -7,7 +7,3 @@ Web Scraping Program
 1. Must provide at least one analytical insight
 2. Must be able to generate at least one form of data representation
 3. Data collected must be stored in a database
-
-Import
-bs4
-requests
